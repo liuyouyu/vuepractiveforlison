@@ -1,7 +1,7 @@
 const state={
 //
 }
-const mutaions={
+const mutations={
 //
 }
 const actions={

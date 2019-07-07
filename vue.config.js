@@ -1,5 +1,5 @@
 const path = require("path");
-const resolve = dir => path.join(_dirname, dir)
+const resolve = dir => path.join(__dirname, dir)
 const BASE_URL = process.env.NODE_ENV === ' production' ? '/iview-amin/' : '/'
 
 module.exports = {
@@ -18,3 +18,5 @@ module.exports = {
 
 
 }
+
+
